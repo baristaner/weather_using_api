@@ -1,5 +1,5 @@
 const url = 'https://api.openweathermap.org/data/2.5/'
-const key = 'b10b9194c933b4d36e763cd103a9ac11'
+const key = ' ' /* put openweathermap.org API key here */
 
 const setQuery = (e) => {
     if(e.keyCode == '13')
